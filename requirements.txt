@@ -1,6 +1,6 @@
 xlsxwriter
 matplotlib
 plotly
-sklearn
+scikit-learn
 xgboost
 prophet
