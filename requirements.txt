@@ -1,0 +1,6 @@
+xlsxwriter
+matplotlib
+plotly
+sklearn
+xgboost
+prophet
